@@ -1,0 +1,13 @@
+.title {
+    font-size: xxx-large;
+    font-family: sans-serif;
+}
+
+.buttonStyle {
+    background-color: coral;
+    font-size: 15px;
+    border: none;
+    padding: 5px 8px;
+    margin-right: 5px;
+    border-radius: 3px;
+}
